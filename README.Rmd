@@ -16,6 +16,7 @@ knitr::opts_chunk$set(
 # dewi
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/chainsawriot/dewi/workflows/R-CMD-check/badge.svg)](https://github.com/chainsawriot/dewi/actions)
 <!-- badges: end -->
 
 The goal of dewi is to query German Wikitionary for a noun and its possible alternative forms. For example, querying the word "Japaner" (Male Japanese) will generate the plural form "Japaner", the genitive form "Japaners", the dative plural form "Japanern", the female counterpart "Japanerin", the plural female counterpart "Japanerinnen".
