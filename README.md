@@ -5,6 +5,7 @@
 
 <!-- badges: start -->
 
+[![R-CMD-check](https://github.com/chainsawriot/dewi/workflows/R-CMD-check/badge.svg)](https://github.com/chainsawriot/dewi/actions)
 <!-- badges: end -->
 
 The goal of dewi is to query German Wikitionary for a noun and its
