@@ -9,7 +9,7 @@
 
 The goal of dewi is to query German Wikitionary for a noun and its
 possible alternative forms. For example, querying the word “Japaner”
-(Male Japanese) will generate the plural form “Japaner”, the genitiv
+(Male Japanese) will generate the plural form “Japaner”, the genitive
 form “Japaners”, the dative plural form “Japanern”, the female
 counterpart “Japanerin”, the plural female counterpart “Japanerinnen”.
 
@@ -97,26 +97,26 @@ dewi("Asiat")
 ```
 
 ``` r
-dewi("Erdbewohner")
+dewi("Mannheimer")
 #> # A tibble: 16 × 4
-#>    genus kasus     numerus  wort            
-#>    <chr> <chr>     <chr>    <chr>           
-#>  1 m     Nominativ Singular Erdbewohner     
-#>  2 m     Nominativ Plural   Erdbewohner     
-#>  3 m     Genitiv   Singular Erdbewohners    
-#>  4 m     Genitiv   Plural   Erdbewohner     
-#>  5 m     Dativ     Singular Erdbewohner     
-#>  6 m     Dativ     Plural   Erdbewohnern    
-#>  7 m     Akkusativ Singular Erdbewohner     
-#>  8 m     Akkusativ Plural   Erdbewohner     
-#>  9 f     Nominativ Singular Erdbewohnerin   
-#> 10 f     Nominativ Plural   Erdbewohnerinnen
-#> 11 f     Genitiv   Singular Erdbewohnerin   
-#> 12 f     Genitiv   Plural   Erdbewohnerinnen
-#> 13 f     Dativ     Singular Erdbewohnerin   
-#> 14 f     Dativ     Plural   Erdbewohnerinnen
-#> 15 f     Akkusativ Singular Erdbewohnerin   
-#> 16 f     Akkusativ Plural   Erdbewohnerinnen
+#>    genus kasus     numerus  wort           
+#>    <chr> <chr>     <chr>    <chr>          
+#>  1 m     Nominativ Singular Mannheimer     
+#>  2 m     Nominativ Plural   Mannheimer     
+#>  3 m     Genitiv   Singular Mannheimers    
+#>  4 m     Genitiv   Plural   Mannheimer     
+#>  5 m     Dativ     Singular Mannheimer     
+#>  6 m     Dativ     Plural   Mannheimern    
+#>  7 m     Akkusativ Singular Mannheimer     
+#>  8 m     Akkusativ Plural   Mannheimer     
+#>  9 f     Nominativ Singular Mannheimerin   
+#> 10 f     Nominativ Plural   Mannheimerinnen
+#> 11 f     Genitiv   Singular Mannheimerin   
+#> 12 f     Genitiv   Plural   Mannheimerinnen
+#> 13 f     Dativ     Singular Mannheimerin   
+#> 14 f     Dativ     Plural   Mannheimerinnen
+#> 15 f     Akkusativ Singular Mannheimerin   
+#> 16 f     Akkusativ Plural   Mannheimerinnen
 ```
 
 ``` r

@@ -25,6 +25,11 @@
 }
 
 .parse_uebersicht <- function(x) {
+    if (length(x) == 1) {
+        if (is.na(x)) {
+            return(NA)
+        }
+    }
     uebersicht <- purrr::keep(x, ~stringr::str_detect(., "^\\|Genus|^\\|Nominativ|^\\|Genitiv|^\\|Dativ|^\\|Akkusativ")) %>%  stringr::str_replace("^\\|", "") %>% stringr::str_split("\\=")
     genus <- uebersicht[[1]][2]
     kasus <- uebersicht[-1] %>% purrr::map_chr(1) %>% stringr::str_split(" ") %>% purrr::map_chr(1)
@@ -43,6 +48,9 @@ dewi <- function(title) {
     wiki_content <- .get_wiki_content(title)
     parsed <- stringr::str_split(wiki_content, "\n")[[1]]
     uebersicht1 <- .parse_uebersicht(.extract_what(x = "Deutsch Substantiv Übersicht", parsed = parsed))
+    if (!"tbl_df" %in% class(uebersicht1)) {
+        return(NA)
+    }
     genus1 <- unique(uebersicht1$genus)
     if (genus1 == "f") {
         alternativ_genus <- "M\u00e4nnliche"
