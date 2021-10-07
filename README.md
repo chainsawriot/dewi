@@ -119,6 +119,31 @@ dewi("Mannheimer")
 #> 16 f     Akkusativ Plural   Mannheimerinnen
 ```
 
+Also useful for occupations, even weird ones.
+
+``` r
+dewi("Regierungschef")
+#> # A tibble: 16 × 4
+#>    genus kasus     numerus  wort               
+#>    <chr> <chr>     <chr>    <chr>              
+#>  1 m     Nominativ Singular Regierungschef     
+#>  2 m     Nominativ Plural   Regierungschefs    
+#>  3 m     Genitiv   Singular Regierungschefs    
+#>  4 m     Genitiv   Plural   Regierungschefs    
+#>  5 m     Dativ     Singular Regierungschef     
+#>  6 m     Dativ     Plural   Regierungschefs    
+#>  7 m     Akkusativ Singular Regierungschef     
+#>  8 m     Akkusativ Plural   Regierungschefs    
+#>  9 f     Nominativ Singular Regierungschefin   
+#> 10 f     Nominativ Plural   Regierungschefinnen
+#> 11 f     Genitiv   Singular Regierungschefin   
+#> 12 f     Genitiv   Plural   Regierungschefinnen
+#> 13 f     Dativ     Singular Regierungschefin   
+#> 14 f     Dativ     Plural   Regierungschefinnen
+#> 15 f     Akkusativ Singular Regierungschefin   
+#> 16 f     Akkusativ Plural   Regierungschefinnen
+```
+
 ``` r
 dewi("Frau")
 #> # A tibble: 8 × 4

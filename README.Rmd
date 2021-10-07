@@ -50,6 +50,12 @@ dewi("Asiat")
 dewi("Mannheimer")
 ```
 
+Also useful for occupations, even weird ones.
+
 ```{r example5}
+dewi("Regierungschef")
+```
+
+```{r example6}
 dewi("Frau")
 ```
