@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20200506035522|7801619",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "35405": {
+                "pageid": 35405,
+                "ns": 0,
+                "title": "Japanerin",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Japanerin ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=f\n|Nominativ Singular=Japanerin\n|Nominativ Plural=Japanerinnen\n|Genitiv Singular=Japanerin\n|Genitiv Plural=Japanerinnen\n|Dativ Singular=Japanerin\n|Dativ Plural=Japanerinnen\n|Akkusativ Singular=Japanerin\n|Akkusativ Plural=Japanerinnen\n|Bild=Wedding kimono.jpg|mini|1|''Japanerin'' in einem traditionellen Hozeitskimono\n}}\n\n{{Worttrennung}}\n:Ja·pa·ne·rin, {{Pl.}} Ja·pa·ne·rin·nen\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|jaˈpaːnəʁɪn}}\n:{{Hörbeispiele}} {{Audio|De-Japanerin.ogg}}\n:{{Reime}} {{Reim|aːnəʁɪn|Deutsch}}\n\n{{Bedeutungen}}\n:[1] Einwohnerin von [[Japan]]\n\n{{Herkunft}}\n:[[Ableitung]] (speziell [[Motion]], [[Movierung]]) vom Stamm des Wortes ''[[Japaner]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-in]]''\n\n{{Männliche Wortformen}}\n:[[Japaner]]\n\n{{Beispiele}}\n:[1] Peters neue Freundin ist ''Japanerin.''\n:[1] „Die ''Japanerinnen'' geben auf.“<ref>{{Literatur | Autor= Pascale Hugues | Titel= Deutschland à la française |TitelErg= | Auflage=  |Verlag= Rowohlt| Ort= Reinbek| Jahr= 2017 | ISBN=978-3-498-03032-2 | Seiten=15.}} Französisches Original 2017.<\/ref>\n:[1] „Leute schlendern vorbei, kurz darauf zwei ''Japanerinnen''.“<ref>{{Literatur | Autor= Björn Kuhligk, Tom Schulz | Titel= Rheinfahrt |TitelErg= Ein Fluss. Seine Menschen. Seine Geschichten | Übersetzer= |Verlag= Orell Füssli| Ort= Zürich| Jahr= 2017 | ISBN=978-3-280-05630-1 | Seiten=79.}}<\/ref>\n\n{{Absatz}}\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{ar}}: [1] {{Üt|ar|يابانية|yābāniya}}\n*{{en}}: [1] {{Ü|en|Japanese}}\n*{{fr}}: [1] {{Ü|fr|Japonaise}}\n*{{it}}: [1] {{Ü|it|giapponese}}\n*{{ja}}: [1] {{Üt|ja|日本人|にほんじん, nihonjin}}\n*{{ca}}: [1] {{Ü|ca|japonesa}}\n*{{hr}}: [1] {{Ü|hr|Japanka}}\n*{{lt}}: [1] {{Ü|lt|japonė}}\n*{{pl}}: [1] {{Ü|pl|Japonka}}\n|Ü-rechts=\n*{{pt}}: [1] {{Ü|pt|japonesa}}\n*{{rm}}: [1] {{Ü|rm|Giapunaisa}}\n*{{ru}}: [1] {{Üt|ru|японка|japonka}}\n*{{sv}}: [1] {{Ü|sv|japanska}}\n*{{sr}}: [1] {{Üt|sr|Јапанка|Japanka}}\n*{{hsb}}: [1] {{Ü|hsb|Japanka}}\n*{{es}}: [1] {{Ü|es|japonesa}}\n*{{cs}}: [1] {{Ü|cs|Japonka}}\n*{{uk}}: [1] {{Üt|uk|японка|japonka}} {{f}}\n}}\n\n{{Referenzen}}\n:[1] {{Ref-DWDS|Japanerin}}\n:[1] {{Ref-UniLeipzig|Japanerin}}\n\n{{Quellen}}"
+                    }
+                ]
+            }
+        }
+    }
+}

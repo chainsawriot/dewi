@@ -17,9 +17,9 @@
 .clean_text <- function(x, dot = FALSE) {
     ## clean up all non-german characters
     if (dot) {
-        rex <- "[^a-zA-Z \u00e4\u00f6\u00fc\u00c4\u00d6\u00dc\u00df\u00b7/]"
+        rex <- "[^a-zA-Z \u00e4\u00f6\u00fc\u00c4\u00d6\u00dc\u00df\u00b7/\\-]"
     } else {
-        rex <- "[^a-zA-Z \u00e4\u00f6\u00fc\u00c4\u00d6\u00dc\u00df/]"
+        rex <- "[^a-zA-Z \u00e4\u00f6\u00fc\u00c4\u00d6\u00dc\u00df/\\-]"
     }
     stringr::str_trim(stringr::str_replace_all(x, rex, ""))
 }

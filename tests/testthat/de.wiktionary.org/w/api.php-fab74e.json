@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20190505213707|7007949",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "927364": {
+                "pageid": 927364,
+                "ns": 0,
+                "title": "EU-Bürger",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== EU-Bürger ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{m}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=m\n|Nominativ Singular=EU-Bürger\n|Nominativ Plural=EU-Bürger\n|Genitiv Singular=EU-Bürgers\n|Genitiv Plural=EU-Bürger\n|Dativ Singular=EU-Bürger\n|Dativ Plural=EU-Bürgern\n|Akkusativ Singular=EU-Bürger\n|Akkusativ Plural=EU-Bürger\n}}\n\n{{Worttrennung}}\n:EU-Bür·ger, {{Pl.}} EU-Bür·ger\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|eːˈʔuːˌbʏʁɡɐ}}\n:{{Hörbeispiele}} {{Audio|De-EU-Bürger.ogg}}\n\n{{Bedeutungen}}\n:[1] [[Einwohner]] eines [[Staat]]es, der zur Europäischen Union gehört\n\n{{Herkunft}}\n:[[Determinativkompositum]] aus ''[[EU]]'' und ''[[Bürger]]''\n\n{{Weibliche Wortformen}}\n:[1] [[EU-Bürgerin]]\n\n{{Oberbegriffe}}\n:[1] [[Bürger]]\n\n{{Beispiele}}\n:[1] Als ''EU-Bürger'' darf er auch in Schweden sein, dass bedeutet aber nicht, dass er dort auch Sozialhilfe bekommen kann.\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|EU citizen}}\n*{{fr}}: [1] {{Ü|fr|}}\n|Ü-rechts=\n*{{it}}: [1] {{Ü|it|}}\n*{{es}}: [1] {{Ü|es|}}\n}}\n\n{{Referenzen}}\n:[*] {{Wikipedia-Suche}}\n:[*] {{Ref-DWDS}}\n:[1] {{Ref-Duden}}\n:[*] {{Ref-UniLeipzig}}\n:[*] {{Ref-PONS}}"
+                    }
+                ]
+            }
+        }
+    }
+}

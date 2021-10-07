@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20190505213527|7007948",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "927374": {
+                "pageid": 927374,
+                "ns": 0,
+                "title": "EU-Bürgerin",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== EU-Bürgerin ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=f\n|Nominativ Singular=EU-Bürgerin\n|Nominativ Plural=EU-Bürgerinnen\n|Genitiv Singular=EU-Bürgerin\n|Genitiv Plural=EU-Bürgerinnen\n|Dativ Singular=EU-Bürgerin\n|Dativ Plural=EU-Bürgerinnen\n|Akkusativ Singular=EU-Bürgerin\n|Akkusativ Plural=EU-Bürgerinnen\n}}\n\n{{Worttrennung}}\n:EU-Bür·ge·rin, {{Pl.}} EU-Bür·ge·rin·nen\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|eːˈʔuːˌbʏʁɡəʁɪn}}\n:{{Hörbeispiele}} {{Audio|De-EU-Bürgerin.ogg}}\n\n{{Bedeutungen}}\n:[1] [[Einwohnerin]] eines [[Staat]]es, der zur Europäischen Union gehört\n\n{{Herkunft}}\n:[[Ableitung]] ([[Motion]], [[Movierung]]) des Femininums aus der männlichen Form ''[[EU-Bürger]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-in]]''\n\n{{Männliche Wortformen}}\n:[1] [[EU-Bürger]]\n\n{{Oberbegriffe}}\n:[1] [[Bürgerin]]\n\n{{Beispiele}}\n:[1] Als ''EU-Bürgerin'' darf ich mich natürlich diese zwei Monate in Belgien aufhalten, ohne dass ich irgendwelche Formalitäten erledigen muss.\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|}}\n*{{fr}}: [1] {{Ü|fr|}}\n|Ü-rechts=\n*{{it}}: [1] {{Ü|it|}}\n*{{es}}: [1] {{Ü|es|}}\n}}\n\n{{Referenzen}}\n:[*] {{Wikipedia-Suche}}\n:[*] {{Ref-DWDS}}\n:[1] {{Ref-Duden}}\n:[*] {{Ref-UniLeipzig}}\n:[*] {{Ref-PONS}}"
+                    }
+                ]
+            }
+        }
+    }
+}

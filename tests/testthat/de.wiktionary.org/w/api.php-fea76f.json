@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20191210135819|7398354",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "144112": {
+                "pageid": 144112,
+                "ns": 0,
+                "title": "Regierungschef",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Regierungschef ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{m}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=m\n|Nominativ Singular=Regierungschef\n|Nominativ Plural=Regierungschefs\n|Genitiv Singular=Regierungschefs\n|Genitiv Plural=Regierungschefs\n|Dativ Singular=Regierungschef\n|Dativ Plural=Regierungschefs\n|Akkusativ Singular=Regierungschef\n|Akkusativ Plural=Regierungschefs\n}}\n\n{{Worttrennung}}\n:Re·gie·rungs·chef, {{Pl.}} Re·gie·rungs·chefs\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|ʁeˈɡiːʁʊŋsˌʃɛf}}\n:{{Hörbeispiele}} {{Audio|LL-Q188 (deu)-Sebastian Wallroth-Regierungschef.wav}}, {{Audio|De-Regierungschef.ogg}}\n\n{{Bedeutungen}}\n:[1] {{K|Politik}} Politiker, der der Regierung eines [[Staat]]es vorsteht\n\n{{Herkunft}}\n:[[Determinativkompositum]] aus ''[[Regierung]],'' [[Fugenelement]] ''[[-s]]'' und ''[[Chef]]''\n\n{{Sinnverwandte Wörter}}\n:[1] [[Staatschef]]\n\n{{Weibliche Wortformen}}\n:[1] [[Regierungschefin]]\n\n{{Oberbegriffe}}\n:[1] [[Politiker]], [[Chef]]\n\n{{Unterbegriffe}}\n:[1] [[Präsident]], [[Premierminister]], [[Ministerpräsident]], [[Bundeskanzler]]\n:[1] [[CDU-Regierungschef]], [[SPD-Regierungschef]], [[Übergangsregierungschef]]\n\n{{Beispiele}}\n:[1] Nicht immer ist der ''Regierungschef'' auch Staatsoberhaupt.\n:[1] In manchem parlamentarischen Regierungssystem wird auch die Funktion des Staatsoberhaupts vom parlamentarisch bestimmten ''Regierungschef'' ausgeübt.<ref>{{Wikipedia|Regierungschef}}<\/ref>\n:[1] Djukanovic, der schon in den neunziger Jahren mehrmals ''Regierungschef'' war, hatte von sich aus angeboten, vor der italienischen Justiz auszusagen.<ref>[http://www.spiegel.de/panorama/justiz/0,1518,544175,00.html Montenegrinischer Regierungschef stellt sich Verhör in Italien (SPIEGEL onine, 29.03.2008)]<\/ref>\n:[1] Die konservative Mehrheit der Staats- und ''Regierungschefs'' hat sich auf dem EU-Gipfel in Brüssel dagegen ausgesprochen, mehr Staatsgeld in die Märkte zu pumpen.<ref>[http://www.spiegel.de/politik/ausland/0,1518,614379,00.html Regierungschefs lehnen neue Konjunktur-Programme ab (SPIEGEL online, 19.03.2009)]<\/ref>\n:[1] „Beide ''Regierungschefs'' setzen sich damit gegen massive Widerstände in Kabinett, Parlament und bei der Bevölkerung durch.“<ref>{{Literatur|Autor= Gisela Dachs| Titel= Zu den kulturpolitischen Beziehungen zwischen Israel und Deutschland - und die Rolle der deutschen Sprache |Sammelwerk=Der Sprachdienst|Nummer= Heft 4-5|Jahr=2013}}, Seite 145-154, Zitat Seite 148.<\/ref>\n\n{{Wortbildungen}}\n:[[Ex-Regierungschef]], [[Vize-Regierungschef]]\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|head of government}}\n*{{fr}}: [1] {{Ü|fr|chef du gouvernement}} {{m}}\n*{{el}}: [1] {{Üt|el|αρχηγός|archigós tis kyvérnisis|αρχηγός της κυβέρνησης}} {{m}} {{f}}\n*{{it}}: [1] {{Ü|it|capo del governo}} {{m}}\n*{{ca}}: [1] {{Ü|ca|cap de govern}} {{m}}\n|Ü-rechts=\n*{{nl}}: [1] {{Ü|nl|regeringsleider}}\n*{{pt}}: [1] {{Ü|pt|chefe de governo}} {{m}}\n*{{sv}}: [1] {{Ü|sv|regeringschef}} {{u}}\n*{{es}}: [1] {{Ü|es|jefe de gobierno}} {{m}}\n*{{hu}}: [1] {{Ü|hu|kormányfő}}\n}}\n\n{{Referenzen}}\n:[1] {{Wikipedia|Regierungschef}}\n:[1] {{Ref-DWDS|Regierungschef}}\n:[1] {{Ref-UniLeipzig|Regierungschef}}\n:[1] {{Ref-FreeDictionary|Regierungschef}}\n:[1] {{Ref-Duden|Regierungschef}}\n:[*] {{Ref-PONS|Regierungschef}}\n\n{{Quellen}}"
+                    }
+                ]
+            }
+        }
+    }
+}

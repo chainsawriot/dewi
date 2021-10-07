@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20201013230441|8161005",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "40579": {
+                "pageid": 40579,
+                "ns": 0,
+                "title": "Asiatin",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Asiatin ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=f\n|Nominativ Singular=Asiatin\n|Nominativ Plural=Asiatinnen\n|Genitiv Singular=Asiatin\n|Genitiv Plural=Asiatinnen\n|Dativ Singular=Asiatin\n|Dativ Plural=Asiatinnen\n|Akkusativ Singular=Asiatin\n|Akkusativ Plural=Asiatinnen\n}}\n\n{{Worttrennung}}\n:Asi·a·tin, {{Pl.}} Asi·a·tin·nen\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|aˈzi̯aːtɪn}}\n:{{Hörbeispiele}} {{Audio|De-Asiatin.ogg}} {{Audio|De-at-Asiatin.ogg|spr=at}}\n:{{Reime}} {{Reim|aːtɪn|Deutsch}}\n\n{{Bedeutungen}}\n:[1] Bewohnerin von [[Asien]]\n\n{{Herkunft}}\n:[[Ableitung]] ([[Motion]], [[Movierung]]) des Femininums aus der männlichen Form ''[[Asiat]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-in]]''\n\n{{Männliche Wortformen}}\n:[1] [[Asiat]], [[Asiate]]\n\n{{Oberbegriffe}}\n:[1] [[Mensch]]\n\n{{Unterbegriffe}}\n:[1] [[Afghanin]], [[Ägypterin]], [[Armenierin]], [[Aserbaidschanerin]], [[Bahrainerin]], [[Bangladescherin]], [[Bhutanerin]], [[Bruneierin]], [[Chinesin]], [[Georgierin]], [[Inderin]], [[Indonesierin]], [[Irakerin]], [[Iranerin]], [[Israelin]], [[Japanerin]], [[Jemenitin]], [[Jordanierin]], [[Kambodschanerin]], [[Kasachin]], [[Katarerin]], [[Kirgisin]], [[Koreanerin]], [[Kuwaiterin]], [[Laotin]], [[Libanesin]], [[Malaysierin]], [[Malediverin]], [[Mongolin]], [[Myanmarin]], [[Nepalesin]], [[Nordkoreanerin]], [[Omanerin]], [[Pakistanerin]], [[Philippinerin]], [[Russin]], [[Saudi-Araberin]], [[Singapurerin]], [[Sri-Lankerin]], [[Südkoreanerin]], [[Syrerin]], [[Tadschikin]], [[Thailänderin]], [[Türkin]], [[Turkmenin]], [[Usbekin]], [[Vietnamesin]], [[Zyprerin]]\n\n{{Beispiele}}\n:[1] Die schönsten Frauen der Welt sind ''Asiatinnen.''\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{bs}}: [1] {{Üt|bs|азијаткиња|azijatkinja}} {{f}}\n*{{da}}: [1] {{Ü|da|asiat}} {{u}}\n*{{en}}: [1] {{Ü|en|Asian}}, {{Ü|en|Oriental}}\n*{{eo}}: [1] {{Ü|eo|azianino}}\n*{{fr}}: [1] {{Ü|fr|Asiatique}}\n*{{it}}: [1] {{Ü|it|asiatica}}\n*{{ca}}: [1] {{Ü|ca|asiàtica}} {{f}}\n*{{mk}}: [1] {{Üt|mk|азијаткиња|azijatkinja}} {{f}}\n*{{oc}}: [1] {{Ü|oc|asiatica}} {{f}}\n*{{pl}}: [1] {{Ü|pl|Azjatka}}\n|Ü-rechts=\n*{{ru}}: [1] {{Üt|ru|азиатка|aziatka}}\n*{{sv}}: [1] {{Ü|sv|asiatiska}}\n*{{sr}}: [1] {{Üt|sr|азијаткиња|azijatkinja}} {{f}}\n*{{sh}}: [1] {{Üt|sh|азијаткиња|azijatkinja}} {{f}}\n*{{sk}}: [1] {{Ü|sk|Ázijčanka}} {{f}}, {{Ü|sk|Ázijka}} {{f}}\n*{{sl}}: [1] {{Ü|sl|azijka}} {{f}}\n*{{wen}}:\n**{{dsb}}: [1] {{Ü|dsb|Aziatka}}, {{Ü|dsb|Aziarka}}\n**{{hsb}}: [1] {{Ü|hsb|Azičanka}}, {{Ü|hsb|Aziatka}}\n*{{es}}: [1] {{Ü|es|asiática}}, {{Ü|es|oriental}} {{f}}\n*{{tr}}: [1] {{Ü|tr|Asyalı}}\n*{{uk}}: [1] {{Üt|uk|азіатка|aziatka}} {{f}}\n*{{be}}: [1] {{Üt|be|азіятка|azijatka}} {{f}}\n}}\n\n{{Referenzen}}\n:[1] {{Ref-DWDS|Asiatin}}\n:[1] {{Ref-UniLeipzig|Asiatin}}\n:[1] {{Ref-FreeDictionary|Asiatin}}"
+                    }
+                ]
+            }
+        }
+    }
+}

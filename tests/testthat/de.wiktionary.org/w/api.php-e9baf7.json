@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20170620041049|5948860",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "30339": {
+                "pageid": 30339,
+                "ns": 0,
+                "title": "Muslima",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Muslima ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=f\n|Nominativ Singular=Muslima\n|Nominativ Plural 1=Muslimas\n|Nominativ Plural 2=Muslimen\n|Genitiv Singular=Muslima\n|Genitiv Plural 1=Muslimas\n|Genitiv Plural 2=Muslimen\n|Dativ Singular=Muslima\n|Dativ Plural 1=Muslimas\n|Dativ Plural 2=Muslimen\n|Akkusativ Singular=Muslima\n|Akkusativ Plural 1=Muslimas\n|Akkusativ Plural 2=Muslimen\n}}\n\n{{Anmerkung}}\n:Die zweite Pluralform ist selten.\n\n{{Worttrennung}}\n:Mus·li·ma, {{Pl.1}} Mus·li·mas, {{Pl.2}} Mus·li·men\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|mʊsˈliːma}}\n:{{Hörbeispiele}} {{Audio|De-Muslima.ogg}}\n:{{Reime}} {{Reim|iːma|Deutsch}}\n\n{{Bedeutungen}}\n:[1] {{K|Islam|Religion}} Anhängerin des islamischen Glaubens\n\n{{Herkunft}}\n:von gleichbedeutend und gleichlautend [[arabisch]] {{Arab|مسلمة}} (weibliche Form von [[Muslim]])\n\n{{Synonyme}}\n:[1] [[Muslimin]] (arabisch-deutsch), [[Moslemin]] (persisch-deutsch), [[Muslime]] (selten), ''historisch:'' [[Islamitin]], [[Mohammedanerin]] (veraltet)\n\n{{Gegenwörter}}\n:[1] [[Nichtmuslima]]\n\n{{Männliche Wortformen}}\n:[1] [[Muslim]]\n\n{{Oberbegriffe}}\n:[1] [[Abrahamitin]]\n\n{{Unterbegriffe}}\n:[1] ''nach Glaubensrichtung:'' [[Chardschitin]], [[Dschabritin]], [[Mutazilitin]], [[Schiitin]], [[Sunnitin]], [[Wahhabitin]]\n:[1] [[Islamistin]], [[Kulturmuslima]], [[Radikalmuslima]], [[Sufistin]], [[Vorzeige-Muslima]]\n\n{{Beispiele}}\n:[1] Abdel-Razzak heiratete dann eine deutsche ''Muslima.'' (eine muslimische Deutsche)\n:[1] „Die Max-Overalls waren nicht nur warm, es wirkte, als spielten sie eine ähnliche Rolle wie die Burka bei strenggläubigen ''Muslimas''.“<ref>{{Literatur | Autor=Huldar Breiðfjörð | Titel= Liebe Isländer | TitelErg= Roman| Auflage= 2. | Verlag=Aufbau | Ort= Berlin |Jahr= 2014| Seiten= 65.|ISBN= 978-3-7466-2933-9}} Isländisches Original 1998.<\/ref>\n:[1] „Wenn ich es nun geschafft haben sollte, Sie emotional aufzuwärmen, können Sie vielleicht verstehen, was für eine ''Muslima'' das Wort Bayram bedeutet.“<ref>{{Literatur| Autor= Hatice Akyün| Titel= Verfluchte anatolische Bergziegenkacke oder wie mein Vater sagen würde: Wenn die Wut kommt, geht der Verstand| TitelErg= | Verlag= Kiepenheuer & Witsch| Ort= Köln |Jahr= 2014| ISBN= 978-3-462-04699-1}}, Seite 57.<\/ref>\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|Muslim}}\n*{{fr}}: [1] {{Ü|fr|musulmane}} {{f}}\n*{{pl}}: [1] {{Ü|pl|muzułmanka}} {{f}}, {{Ü|pl|mahometanka}} {{f}}\n|Ü-rechts=\n*{{sv}}: [1] {{Ü|sv|muslim}} {{u}}\n*{{es}}: [1] {{Ü|es|musulmana}} {{f}}\n*{{tr}}: [1] {{Ü|tr|Müslüman}}\n}}\n\n{{Referenzen}}\n:[1] {{Ref-UniLeipzig}}\n:[1] {{Lit-Duden: Rechtschreibung|A=24}}\n\n{{Quellen}}"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20201013225306|8160999",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "40578": {
+                "pageid": 40578,
+                "ns": 0,
+                "title": "Asiat",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Asiat ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{m}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=m\n|Nominativ Singular=Asiat\n|Nominativ Plural=Asiaten\n|Genitiv Singular=Asiaten\n|Genitiv Plural=Asiaten\n|Dativ Singular=Asiaten\n|Dativ Plural=Asiaten\n|Akkusativ Singular=Asiaten\n|Akkusativ Plural=Asiaten\n}}\n\n{{Nebenformen}}\n:[[Asiate]]\n\n{{Worttrennung}}\n:Asi·at, {{Pl.}} Asi·a·ten\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|aˈzi̯aːt}}\n:{{Hörbeispiele}} {{Audio|}}\n:{{Reime}} {{Reim|aːt|Deutsch}}\n\n{{Bedeutungen}}\n:[1] aus [[Asien]] stammende oder dort lebende Person\n\n{{Herkunft}}\n:von ''[[Asien]]''\n\n{{Weibliche Wortformen}}\n:[1] [[Asiatin]]\n\n{{Oberbegriffe}}\n:[1] [[Erdbewohner]], [[Mensch]]\n\n{{Unterbegriffe}}\n:[1] [[Afghane]], [[Armenier]], [[Aserbaidschaner]], [[Bahrainer]], [[Bangladescher]], [[Bhutaner]], [[Bruneier]], [[Georgier]], [[Inder]], [[Indonesier]], [[Iraker]], [[Iraner]], [[Israeli]], [[Jemenit]], [[Jordanier]], [[Kambodschaner]], [[Kasache]], [[Katarer]], [[Kirgise]], [[Kuwaiter]], [[Laote]], [[Libanese]], [[Malaysier]], [[Malediver]], [[Mongole]], [[Myanmare]], [[Nepalese]], [[Omaner]], [[Pakistaner]], [[Philippiner]], [[Russe]], [[Saudi-Araber]], [[Singapurer]], [[Sri-Lanker]], [[Syrer]], [[Tadschike]], [[Thailänder]], [[Turkmene]], [[Usbeke]], [[Vietnamese]], [[Zyprer]]\n:[1] [[Ostasiate]]/[[Ostasiat]]: [[Chinese]], [[Japaner]], [[Koreaner]] ([[Nordkoreaner]], [[Südkoreaner]])\n:[1] ''auch Afrika beziehungsweise Europa zuzuordnen:'' [[Ägypter]], [[Türke]], [[Russe]]\n\n{{Beispiele}}\n:[1] In dieser Stadt gibt es viele ''Asiaten.''\n:[1] „Die Bewohner von Macau, Singapur, Hongkong und Japan erreichen unter den ''Asiaten'' das höchste Durchschnittsalter.“<ref>{{Wikipedia|Asien}}<\/ref>\n:[1] „Trotz des gezogenen Schwertes konnte sich der ''Asiate'' kaum gegen das Monster behaupten.“<ref>S. Johnathan Davis: ''900 Meilen ''Horror Thriller''<nowiki />''. Luzifer Verlag, 2014 ([https://books.google.de/books?id=DTvFAgAAQBAJ&pg=PT139&dq=%22Asiate%22 bei books.google])<\/ref>\n:[1] „Am Nebentisch sitzen drei ''Asiaten'' mit drei Smartphones, die sie an Selfiesticks befestigt haben und nun hintereinander ihre Bilder auf eine externe Festplatte überspielen.“<ref>{{Literatur | Autor= Björn Kuhligk, Tom Schulz | Titel= Rheinfahrt |TitelErg= Ein Fluss. Seine Menschen. Seine Geschichten | Übersetzer= |Verlag= Orell Füssli| Ort= Zürich| Jahr= 2017 | ISBN=978-3-280-05630-1 | Seiten=17f.}}<\/ref>\n\n{{Wortbildungen}}\n:[[asiatisch]]\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{bs}}: [1] {{Üt|bs|Азијат|Azijat}} {{m}}\n*{{da}}: [1] {{Ü|da|asiat}} {{u}}\n*{{en}}: [1] {{Ü|en|Asian}}, {{Ü|en|Oriental}}\n*{{eo}}: [1] {{Ü|eo|aziano}}\n*{{et}}: [1] {{Ü|et|aasialane}}\n*{{fr}}: [1] {{Ü|fr|Asiatique}}\n*{{is}}: [1] {{Ü|is|Asíubúi}}\n*{{it}}: [1] {{Ü|it|asiatico}}\n*{{ja}}: [1] {{Üt|ja|東洋人|とうようじん, tōyōjin}}\n*{{ca}}: [1] {{Ü|ca|asiàtic}} {{m}}\n*{{lv}}: [1] {{Ü|lv|Āzijas}}\n*{{lt}}: [1] {{Ü|lt|azijietis}}\n*{{mk}}: [1] {{Üt|mk|Азијат|Azijat}} {{m}}, {{Üt|mk|Азијец|Azijec}} {{m}}\n*{{nl}}: [1] {{Ü|nl|Aziaat}}\n*{{no}}: [1] {{Ü|no|asiat}} {{m}}\n|Ü-rechts=\n*{{oc}}: [1] {{Ü|oc|asiatic}} {{m}}\n*{{pl}}: [1] {{Ü|pl|Azjata}}\n*{{ru}}: [1] {{Üt|ru|азиат|aziat}}\n*{{sv}}: [1] {{Ü|sv|asiat}} {{u}}\n*{{sr}}: [1] {{Üt|sr|Азијат|Azijat}} {{m}}\n*{{sh}}: [1] {{Üt|sh|Азијат|Azijat}} {{m}}\n*{{sk}}: [1] {{Ü|sk|Ázijčan}} {{m}}, {{Ü|sk|Ázijec}} {{m}}, ''meist pejorativ:'' {{Ü|sk|Aziat}} {{m}}\n*{{sl}}: [1] {{Ü|sl|Azijec}} {{m}}\n*{{wen}}:\n**{{dsb}}: [1] {{Ü|dsb|Aziat}}, {{Ü|dsb|Azijaŕ}}\n**{{hsb}}: [1] {{Ü|hsb|Azičan}}, {{Ü|hsb|Aziat}}\n*{{es}}: [1] {{Ü|es|asiático}}, {{Ü|es|oriental}}\n*{{cs}}: [1] {{Ü|cs|Asiat}} {{m}}, {{Ü|cs|Asijec}} {{m}}\n*{{tr}}: [1] {{Ü|tr|Asyalı}}\n*{{hu}}: [1] {{Ü|hu|ázsiai}}\n}}\n\n{{Referenzen}}\n:[1] {{Ref-DWDS|Asiat}}\n:[1] {{Ref-UniLeipzig|Asiat}}\n:[1] {{Ref-FreeDictionary|Asiat}}\n:[1] {{Ref-Duden}}\n\n{{Quellen}}\n\n{{Ähnlichkeiten 1|[[Astat]]}}"
+                    }
+                ]
+            }
+        }
+    }
+}

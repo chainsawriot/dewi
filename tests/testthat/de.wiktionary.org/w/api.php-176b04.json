@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20200425200440|7750071",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "30336": {
+                "pageid": 30336,
+                "ns": 0,
+                "title": "Muslim",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Muslim ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{m}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=m\n|Nominativ Singular=Muslim\n|Nominativ Plural 1=Muslime\n|Nominativ Plural 2=Muslims\n|Genitiv Singular=Muslim\n|Genitiv Singular*=Muslims\n|Genitiv Plural 1=Muslime\n|Genitiv Plural 2=Muslims\n|Dativ Singular=Muslim\n|Dativ Plural 1=Muslimen\n|Dativ Plural 2=Muslims\n|Akkusativ Singular=Muslim\n|Akkusativ Plural 1=Muslime\n|Akkusativ Plural 2=Muslims\n}}\n\n{{Worttrennung}}\n:Mus·lim, {{Pl.1}} Mus·li·me, {{Pl.2}} Mus·lims\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|ˈmuslim}}, {{Lautschrift|ˈmʊslɪm}}\n:{{Hörbeispiele}} {{Audio|De-Muslim.ogg}}\n\n{{Bedeutungen}}\n:[1] {{K|Islam}} [[Anhänger]] der [[Islam|islamischen]] [[Religion]]\n\n{{Herkunft}}\n:im 19. Jahrhundert von gleichbedeutend [[arabisch]] {{Arab|مسلم|d=muslim|b=jemand, der sich Gott unterwirft, [[Anhänger]] des [[Islam]]}} {{Lautschrift|ˈmuslim}} entlehnt.<ref>{{Literatur|Autor=Wolfgang Pfeifer [Leitung]|Titel=Etymologisches Wörterbuch des Deutschen|Auflage=2. durchgesehene und erweiterte |Verlag=Deutscher Taschenbuch Verlag|Ort=München|Jahr=1993|ISBN=3-423-03358-4}}, Stichwort „Muslim, Moslem, Muselmann“.<\/ref>\n\n{{Synonyme}}\n:[1] [[Moslem]]\n:[1] ''veraltet:'' [[Islamit]], [[Mohammedaner]]/[[Muhamedaner]], [[Muselman]]/[[Muselmann]]/[[Muselmane]]\n\n{{Gegenwörter}}\n:[1] [[Kafir]], [[Nichtmuslim]], [[Ungläubiger]] ''(aus islamischer Sicht)''\n\n{{Weibliche Wortformen}}\n:[1] [[Muslima]], [[Muslimin]]\n\n{{Oberbegriffe}}\n:[1] [[Abrahamit]]\n\n{{Unterbegriffe}}\n:[1] ''nach Glaubensrichtung:'' [[Ahmadi]] (strittig), [[Alevit]] ([[Alewit]]), [[Chardschit]], [[Schiit]], [[Sunnit]] (''Unterbegriffe:'' [[Salafist]], [[Wahhabit]]); ''historisch:'' [[Dschabrit]], [[Mutazilit]]\n:[1] [[Islamist]], [[Radikalmuslim]], [[Sufi]] ([[Sufist]]), [[Vorzeige-Muslim]]\n:[1] [[Kulturmuslim]] (strukturell)\n\n{{Beispiele}}\n:[1] In Deutschland leben mehr als drei Millionen ''Muslime.''\n:[1] Ein ''Muslim'' sollte jeden Tag fünfmal beten.\n:[1] Zu den Pflichten des ''Muslim(s)'' gehört die Pilgerfahrt nach Mekka.\n:[1] Zu den bizarren Pointen der furchtbaren Terrorserie in Frankreich zählt aber auch die Tatsache, dass ''Muslime'' nicht nur Täter und Opfer, sondern auch Helden geworden sind. Am Mittwoch war es der Polizist Ahmed Merabet, ein 42-jähriger muslimischer Familienvater, den die terroristischen Kouachi-Brüder brutal ermordeten.<ref>{{Internetquelle | url=http://m.welt.de/ | titel=Der Held von Paris ist ein Muslim aus Mali | hrsg=DIE WELT | datum=2015-01-11 | archiv-datum=2015-01-11 | archiv-url=http://m.welt.de/politik/ausland/article136259820/Der-Held-von-Paris-ist-ein-Muslim-aus-Mali.html | zugriff=2015-01-20 }}<\/ref>\n:[1] „Sie fordern Hindus auf, zehn Kinder zu bekommen, um die ''Muslime'' zu verdrängen.“<ref>{{Literatur| Autor= Katrin Kuntz | Titel= Kein schöner Land | Sammelwerk= DER SPIEGEL| Nummer= Heft 1| Jahr= 2016 | Seiten= 76-81}}, Zitat: Seite 80.<\/ref>\n:[1] „Während die meisten Berliner letzte Nacht tief und fest schliefen, begann für viele ''Muslime'' um 1.13 Uhr der erste Fastentag des Ramadan.“<ref>{{Literatur| Autor= Hatice Akyün| Titel= Verfluchte anatolische Bergziegenkacke oder wie mein Vater sagen würde: Wenn die Wut kommt, geht der Verstand| Verlag= Kiepenheuer & Witsch| Ort= Köln |Jahr= 2014| ISBN= 978-3-462-04699-1}}, Seite 52.<\/ref>\n:[1] „Dies gab dem Maharadscha noch einmal die Gelegenheit, seine Wut an den verbliebenen ''Muslimen'' auszulassen, es gab Pogrome und Vertreibungen.“<ref>{{Literatur | Autor= Björn Berge | Titel= Atlas der verschwundenen Länder |TitelErg= Weltgeschichte in 50 Briefmarken| Übersetzer= Günter Frauenlob, Frank Zuber |Verlag= dtv| Ort= München| Jahr= 2018 | ISBN=978-3-423-28160-7 | Seiten=65.}} Norwegisches Original 2016.<\/ref>\n\n{{Wortbildungen}}\n:''[[Adjektiv]]e/[[Adverb]]ien:'' [[muslimisch]], [[muslimisierend]]\n:''[[Substantiv]]e:'' [[Muslimbruder]], [[Muslimisierung]], [[Muslimsein]]\n:''[[Verb]]en:'' [[muslimisieren]]\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n{{Übersetzungen umleiten|1|Moslem}}\n}}\n\n{{Referenzen}}\n:[1] {{Wikipedia}}\n:[1] {{Ref-DWDS}}\n:[1] {{Ref-UniLeipzig}}\n:[1] {{Ref-FreeDictionary}}\n:[1] {{Ref-Duden}}\n\n{{Quellen}}"
+                    }
+                ]
+            }
+        }
+    }
+}

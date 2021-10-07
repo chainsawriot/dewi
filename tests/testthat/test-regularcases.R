@@ -1,0 +1,42 @@
+with_mock_api({
+    test_that("Regular cases (in README)", {
+        res0 <- dewi("Japaner")
+        expect_true("Japanerin" %in% res0$wort)
+        expect_true("Japaner" %in% res0$wort)
+        res1 <- dewi("Japanerin")
+        expect_true("Japaner" %in% res1$wort)
+        res2 <- dewi("Asiat")
+        expect_true("Asiatinnen" %in% res2$wort)
+        res3 <- dewi("Mannheimer")
+        expect_equal(16, nrow(res3))
+        res4 <- dewi("Kommunikationswissenschaftler")
+        expect_equal(16, nrow(res4))
+        res5 <- dewi("Regierungschef")
+        expect_equal(16, nrow(res5))
+        res6 <- dewi("Tormann")
+        expect_true("Torfrau" %in% res6$wort)
+    })
+    test_that("No alternativ forms", {
+        res0 <- dewi("Frau")
+        expect_equal(8, nrow(res0))
+        res1 <- dewi("Buch")
+        expect_true("tbl_df" %in% class(res1))
+    })
+    test_that("NA", {
+        expect_warning(x <- dewi("Qwerty"))
+        expect_true(is.na(x))
+    })
+    test_that("Multiple alternative forms, issue #1", {
+        res <- dewi("Muslim")
+        expect_true("tbl_df" %in% class(res))
+        expect_true("Muslima" %in% res$wort)
+        expect_true("Muslimin" %in% res$wort)
+    })
+    test_that("hyphen", {
+        expect_silent(dewi("EU-Bürger"))        
+    })
+    test_that("no alternative entry", {
+        expect_warning(x <- dewi("Sinto"))
+        expect_true("tbl_df" %in% class(x))        
+    })
+})

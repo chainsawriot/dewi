@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20200509093747|7827808",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "12655": {
+                "pageid": 12655,
+                "ns": 0,
+                "title": "Tormann",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Tormann ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{m}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=m\n|Nominativ Singular=Tormann\n|Nominativ Plural 1=Tormänner\n|Nominativ Plural 2=Torleute\n|Genitiv Singular=Tormanns\n|Genitiv Singular*=Tormannes\n|Genitiv Plural 1=Tormänner\n|Genitiv Plural 2=Torleute\n|Dativ Singular=Tormann\n|Dativ Plural 1=Tormännern\n|Dativ Plural 2=Torleuten\n|Akkusativ Singular=Tormann\n|Akkusativ Plural 1=Tormänner\n|Akkusativ Plural 2=Torleute\n}}\n\n{{Worttrennung}}\n:Tor·mann, {{Pl.1}} Tor·män·ner, {{Pl.2}} Tor·leu·te\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|ˈtoːɐ̯ˌman}}\n:{{Hörbeispiele}} {{Audio|De-Tormann.ogg}}\n\n{{Bedeutungen}}\n:[1] derjenige Spieler, dessen Aufgabe es ist, gegnerische Tore zu vermeiden und der hierfür oft auch Sonderberechtigungen wie Benutzung der Hände hat\n\n{{Herkunft}}\n:[[Determinativkompositum]] aus den Substantiven ''[[Tor]]'' und ''[[Mann]]''\n\n{{Synonyme}}\n:[1] [[Goalie]], [[Keeper]], [[Schlussmann]], [[Torhüter]], [[Torwart]]\n\n{{Gegenwörter}}\n:[1] [[Feldspieler]], [[Verteidiger]], [[Abwehrspieler]], [[Mittelfeldspieler]], [[Stürmer]], [[Offensivspieler]]\n\n{{Weibliche Wortformen}}\n:[1] [[Torfrau]]\n\n{{Oberbegriffe}}\n:[1] [[Sport]], [[Fußball]], [[Fußballspieler]]\n\n{{Beispiele}}\n:[1] Der ''Tormann'' wirft sich in die Schussbahn.\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|keeper}}\n*{{fr}}: [1] {{Ü|fr|portier}}\n*{{it}}: [1] {{Ü|it|portiere}} {{m}}\n*{{ca}}: [1] {{Ü|ca|porter}}\n|Ü-rechts=\n*{{oc}}: [1] {{Ü|oc|portièr}}, {{Ü|oc|gardian}}\n*{{sv}}: [1] {{Ü|sv|målvakt}} {{u}}\n*{{es}}: [1] {{Ü|es|portero}} {{m}}\n*{{cs}}: [1] {{Ü|cs|brankář}} {{m}}\n}}\n\n{{Referenzen}}\n:[1] {{Wikipedia|Tormann}}\n:[1] {{Ref-DWDS|Tormann}}\n:[1] {{Ref-UniLeipzig|Tormann}}\n:[1] {{Ref-Duden|Tormann}}"
+                    }
+                ]
+            }
+        }
+    }
+}

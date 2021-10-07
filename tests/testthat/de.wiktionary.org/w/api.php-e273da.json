@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20191210140000|7398357",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "279241": {
+                "pageid": 279241,
+                "ns": 0,
+                "title": "Regierungschefin",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Regierungschefin ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=f\n|Nominativ Singular=Regierungschefin\n|Nominativ Plural=Regierungschefinnen\n|Genitiv Singular=Regierungschefin\n|Genitiv Plural=Regierungschefinnen\n|Dativ Singular=Regierungschefin\n|Dativ Plural=Regierungschefinnen\n|Akkusativ Singular=Regierungschefin\n|Akkusativ Plural=Regierungschefinnen\n}}\n\n{{Worttrennung}}\n:Re·gie·rungs·che·fin, {{Pl.}} Re·gie·rungs·che·fin·nen\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|ʁeˈɡiːʁʊŋsˌʃɛfɪn}}\n:{{Hörbeispiele}} {{Audio|LL-Q188 (deu)-Sebastian Wallroth-Regierungschefin.wav}}, {{Audio|De-Regierungschefin.ogg}}\n\n{{Bedeutungen}}\n:[1] weibliche Person, die einer [[Regierung]] vorsteht und diese leitet\n\n{{Herkunft}}\n:[[Ableitung]] (speziell [[Motion]], [[Movierung]]) vom Substantiv ''[[Regierungschef]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-in]]''\n\n{{Sinnverwandte Wörter}}\n:[1] [[Staatschefin]]\n\n{{Männliche Wortformen}}\n:[1] [[Regierungschef]]\n\n{{Oberbegriffe}}\n:[1] [[Politikerin]], [[Chefin]]\n\n{{Unterbegriffe}}\n:[1] [[Bundeskanzlerin]], [[Ministerpräsidentin]], [[Premierministerin]], [[Präsidentin]]\n\n{{Beispiele}}\n:[1] Die ''Regierungschefin'' hat ihren Bildungsminister entlassen.\n:[1] „Als Publikumsmagnet erwies sich erneut das Bundeskanzleramt, und die längste Warteschlange bildete sich regelmäßig vor dem Helikopter der ''Regierungschefin.''“<ref>{{Per-Spiegel Online | Online=http://www.spiegel.de/politik/deutschland/tag-der-offenen-tuer-buerger-ante-portas-a-713141.html | Autor=Lisa Erdmann | Titel=Tag der offenen Tür: Bürger ante Portas | Tag=22 | Monat=08 | Jahr=2010 | Zugriff=2014-01-10 }}<\/ref>\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|}}\n*{{fr}}: [1] {{Ü|fr|}}\n|Ü-rechts=\n*{{it}}: [1] {{Ü|it|}}\n*{{es}}: [1] {{Ü|es|}}\n}}\n\n{{Referenzen}}\n:[1] {{Ref-DWDS|Regierungschefin}}\n:[1] {{Ref-UniLeipzig|Regierungschefin}}\n:[1] {{Ref-FreeDictionary|Regierungschefin}}\n:[1] {{Ref-Duden|Regierungschefin}}\n\n{{Quellen}}"
+                    }
+                ]
+            }
+        }
+    }
+}

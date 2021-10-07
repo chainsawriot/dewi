@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20200507060440|7810357",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "30338": {
+                "pageid": 30338,
+                "ns": 0,
+                "title": "Muslimin",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Muslimin ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=f\n|Nominativ Singular=Muslimin\n|Nominativ Plural=Musliminnen\n|Genitiv Singular=Muslimin\n|Genitiv Plural=Musliminnen\n|Dativ Singular=Muslimin\n|Dativ Plural=Musliminnen\n|Akkusativ Singular=Muslimin\n|Akkusativ Plural=Musliminnen\n}}\n\n{{Worttrennung}}\n:Mus·li·min, {{Pl.}} Mus·li·min·nen\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|mʊsˈliːmɪn}}\n:{{Hörbeispiele}} {{Audio|De-Muslimin.ogg}}\n:{{Reime}} {{Reim|iːmɪn|Deutsch}}\n\n{{Bedeutungen}}\n:[1] {{K|Religion|Islam}} Anhängerin des islamischen Glaubens\n\n{{Herkunft}}\n:[[Ableitung]] ([[Derivation]]) ([[Motion]], [[Movierung]]) des [[Femininum]]s aus der maskulinen Form ''[[Muslim]]'' mit dem [[Suffix]] ''[[-in]]'' als [[Derivatem]] ([[Ableitungsmorphem]])\n\n{{Synonyme}}\n:[1] [[Moslemin]], [[Muslima]], {{hist.|:}} [[Islamitin]], {{va.|:}} [[Mohammedanerin]]\n\n{{Gegenwörter}}\n:[1] [[Nichtmuslimin]]\n\n{{Männliche Wortformen}}\n:[1] [[Muslim]]\n\n{{Oberbegriffe}}\n:[1] [[Abrahamitin]]\n\n{{Unterbegriffe}}\n:[1] ''nach Glaubensrichtung:'' [[Chardschitin]], [[Dschabritin]], [[Mutazilitin]], [[Schiitin]], [[Sunnitin]], [[Wahhabitin]]\n:[1] [[Islamistin]], [[Kulturmuslimin]], [[Radikalmuslimin]], [[Sufistin]], [[Vorzeige-Muslimin]]\n\n{{Beispiele}}\n:[1] Nicht jede ''Muslimin'' trägt ein Kopftuch.\n:[1] „Derartige Improvisationen gehören an der Notenkraker-Schule zum Alltag. Da sitzt das äthiopische Flüchtlingskind neben dem marokkanischen Gastarbeiterjungen, die türkische ''Muslimin'' neben dem Hindumädchen aus Surinam. Und wenn es im Kosovo so weitergeht, werden wir bald die ersten Kinder von dort hier in der Schule haben.“<ref>{{Internetquelle | url=http://www.dwds.de/ | titel=Muslimin | hrsg=DWDS | datum=1999-04-15 | archiv-url=http://www.dwds.de/?qu=Muslimin | archiv-datum=1999-04-15 | zugriff=2014-09-22 | sprache=Deutsch | format=HTML | Kontext=Quelle: ''Die Zeit'' }}<\/ref>\n:[1] „Die Teilnahme am Ramadan ist freiwillig und für bestimme Personen wie Kinder grundsätzlich nicht erlaubt, sagte Asyie Sağlam, ''Muslimin'' aus Landshut.“<ref>{{Internetquelle | url=http://wortschatz.uni-leipzig.de/ | titel=Muslimin | hrsg=DWDS | datum=2011-01-07 | archiv-url=http://wortschatz.uni-leipzig.de/cgi-bin/wort_www.exe?site=1&Wort=Muslimin | archiv-datum=2011-01-07 | zugriff=2014-09-22 | sprache=Deutsch | format=HTML | Kontext=Quelle: [http://www.idowa.de idowa] }}<\/ref>\n:[1] „Ich bin erstens keine ''Muslimin'', und zweitens lebe ich nicht in einer muslimischen Gesellschaft.“<ref>{{Literatur | Autor= Tania Kambouri | Titel= Deutschland im Blaulicht |TitelErg= Notruf einer Polizistin | Auflage= 4. | Verlag= Piper | Ort= München, Berlin, Zürich |Jahr= 2015 | ISBN=978-3-492-06024-0 | Seiten= 115.}}<\/ref>\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{ar}}: [1] {{Üxx5|ar|muslima(tun)|مُسْلِمَةٌ|مسلمة}} {{f}}\n*{{en}}: [1] {{Ü|en|Muslim}}\n*{{fr}}: [1] {{Ü|fr|musulmane}} {{f}}\n*{{it}}: [1] {{Ü|it|}}\n|Ü-rechts=\n*{{no}}: [1] {{Ü|no|muslim}} {{m}}\n*{{pl}}: [1] {{Ü|pl|muzułmanka}} {{f}}\n*{{sv}}: [1] {{Ü|sv|muslim}} {{u}}\n*{{tr}}: [1] {{Ü|tr|Müslüman}}\n}}\n\n{{Referenzen}}\n:[1] {{Ref-DWDS}}\n:[1] {{Ref-UniLeipzig}}\n:[1] {{Ref-FreeDictionary}}\n:[1] {{Ref-Duden}}\n\n{{Quellen}}"
+                    }
+                ]
+            }
+        }
+    }
+}

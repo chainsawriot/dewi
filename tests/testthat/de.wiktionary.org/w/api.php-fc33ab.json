@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20201230114004|8335854",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "232915": {
+                "pageid": 232915,
+                "ns": 0,
+                "title": "Torfrau",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Torfrau ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=f\n|Nominativ Singular=Torfrau\n|Nominativ Plural=Torfrauen\n|Genitiv Singular=Torfrau\n|Genitiv Plural=Torfrauen\n|Dativ Singular=Torfrau\n|Dativ Plural=Torfrauen\n|Akkusativ Singular=Torfrau\n|Akkusativ Plural=Torfrauen\n}}\n\n{{Worttrennung}}\n:Tor·frau, {{Pl.}} Tor·frau·en\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|ˈtoːɐ̯ˌfʁaʊ̯}}\n:{{Hörbeispiele}} {{Audio|De-Torfrau.ogg}}\n\n{{Bedeutungen}}\n:[1] {{K|Sport}} defensivste Spielerin einer Sportmannschaft, die Gegentore verhindern soll und meist mit Sonderrechten ausgestattet ist\n\n{{Herkunft}}\n:[[Determinativkompositum]] (Zusammensetzung) aus den [[Substantiven]] ''[[Tor]]'' und ''[[Frau]]''\n\n{{Synonyme}}\n:[1] [[Keeperin]], [[Torhüterin]]\n\n{{Gegenwörter}}\n:[1] [[Feldspielerin]], [[Mittelfeldspielerin]], [[Stürmerin]], [[Verteidigerin]]\n\n{{Männliche Wortformen}}\n:[1] [[Tormann]]\n\n{{Oberbegriffe}}\n:[1] [[Sportlerin]]\n\n{{Unterbegriffe}}\n:[1] [[Fliegenfängerin]]\n\n{{Beispiele}}\n:[1] Beide ''Torfrauen'' wurden nach dem Schlusspfiff von dem Kommentator gelobt.\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|}}\n*{{fr}}: [1] {{Ü|fr|}}\n|Ü-rechts=\n*{{it}}: [1] {{Ü|it|}}\n*{{sv}}: [1] {{Ü|sv|målvakt}} {{u}}\n*{{es}}: [1] {{Ü|es|}}\n*{{cs}}: [1] {{Ü|cs|brankářka}} {{f}}\n}}\n\n{{Referenzen}}\n:[*] {{Ref-DWDS|Torfrau}}\n:[1] {{Ref-UniLeipzig|Torfrau}}"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20210511143408|8544619",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "1196372": {
+                "pageid": 1196372,
+                "ns": 0,
+                "title": "Kommunikationswissenschaftlerin",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Kommunikationswissenschaftlerin ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=f\n|Nominativ Singular=Kommunikationswissenschaftlerin\n|Nominativ Plural=Kommunikationswissenschaftlerinnen\n|Genitiv Singular=Kommunikationswissenschaftlerin\n|Genitiv Plural=Kommunikationswissenschaftlerinnen\n|Dativ Singular=Kommunikationswissenschaftlerin\n|Dativ Plural=Kommunikationswissenschaftlerinnen\n|Akkusativ Singular=Kommunikationswissenschaftlerin\n|Akkusativ Plural=Kommunikationswissenschaftlerinnen\n}}\n\n{{Worttrennung}}\n:Kom·mu·ni·ka·ti·ons·wis·sen·schaft·le·rin, {{Pl.}} Kom·mu·ni·ka·ti·ons·wis·sen·schaft·le·rin·nen\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|kɔmunikaˈt͡si̯oːnsˌvɪsn̩ʃaftləʁɪn}}\n:{{Hörbeispiele}} {{Audio|De-Kommunikationswissenschaftlerin.ogg}}\n:{{Reime}} {{Reim|oːnsvɪsn̩ʃaftləʁɪn|Deutsch}}\n\n{{Bedeutungen}}\n:[1] Wissenschaftlerin auf dem Gebiet der Kommunikationswissenschaft\n\n{{Herkunft}}\n:[[Ableitung]] ([[Motion]], [[Movierung]]) des Femininums aus der männlichen Form ''[[Kommunikationswissenschaftler]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-in]]''\n\n{{Männliche Wortformen}}\n:[1] [[Kommunikationswissenschaftler]]\n\n{{Oberbegriffe}}\n:[1] [[Wissenschaftlerin]]\n\n{{Beispiele}}\n:[1] Das Spezialgebiet der promovierten ''Kommunikationswissenschaftlerin'' sind Krisensituationen und die dazugehörige Öffentlichkeitsarbeit.\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|}}\n*{{fr}}: [1] {{Ü|fr|}}\n|Ü-rechts=\n*{{it}}: [1] {{Ü|it|}}\n*{{es}}: [1] {{Ü|es|}}\n}}\n\n{{Referenzen}}\n:[*] {{Wikipedia-Suche}}\n:[*] {{Ref-DWDS-Korpus}}\n:[*] {{Ref-UniLeipzig}}"
+                    }
+                ]
+            }
+        }
+    }
+}

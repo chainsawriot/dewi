@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20201030075335|8207921",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "301490": {
+                "pageid": 301490,
+                "ns": 0,
+                "title": "Mannheimer",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Mannheimer ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{m}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=m\n|Nominativ Singular=Mannheimer\n|Nominativ Plural=Mannheimer\n|Genitiv Singular=Mannheimers\n|Genitiv Plural=Mannheimer\n|Dativ Singular=Mannheimer\n|Dativ Plural=Mannheimern\n|Akkusativ Singular=Mannheimer\n|Akkusativ Plural=Mannheimer\n}}\n\n{{Worttrennung}}\n:Mann·hei·mer, {{Pl.}} Mann·hei·mer\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|ˈmanˌhaɪ̯mɐ}}\n:{{Hörbeispiele}} {{Audio|De-Mannheimer.ogg}}\n\n{{Bedeutungen}}\n:[1] [[Einwohner]] der Stadt [[Mannheim]]\n\n{{Herkunft}}\n:[[Ableitung]] zu ''[[Mannheim]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-er]]''\n\n{{Weibliche Wortformen}}\n:[1] [[Mannheimerin]]\n\n{{Oberbegriffe}}\n:[1] [[Deutscher]]\n\n{{Beispiele}}\n:[1] Er kommt aus Mannheim, also ist er ein ''Mannheimer.''\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|}}\n*{{it}}: [1] {{Ü|it|}}\n|Ü-rechts=\n*{{sv}}: [1] {{Ü|sv|}}\n*{{es}}: [1] {{Ü|es|}}\n}}\n\n{{Referenzen}}\n:[*] {{Lit-Duden: Rechtschreibung|A=25}}, „Mannheimer“, Seite 711.\n:[1] {{Ref-Duden|Mannheimer Einwohner Mannheim|Mannheimer (Einwohner von Mannheim)}}\n:[1] {{Ref-DWDS|Mannheimer}}\n:[1] {{Ref-UniLeipzig|Mannheimer}}\n\n=== {{Wortart|Adjektiv|Deutsch}}, ''indeklinabel'' ===\n\n{{Deutsch Adjektiv Übersicht\n|Positiv=Mannheimer\n|Komparativ=—\n|Superlativ=—\n|keine weiteren Formen=ja\n}}\n\n{{Worttrennung}}\n:Mann·hei·mer, {{kSt.}}\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|ˈmanˌhaɪ̯mɐ}}\n:{{Hörbeispiele}} {{Audio|De-Mannheimer.ogg}}\n\n{{Bedeutungen}}\n:[1] zu [[Mannheim]] gehörig, aus ihm kommend oder es betreffend\n\n{{Herkunft}}\n:[[Ableitung]] ([[Derivation]]) vom [[Substantiv]] ''[[Mannheim]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-er]]''\n\n{{Oberbegriffe}}\n:[1] [[baden-württembergisch]]\n\n{{Beispiele}}\n:[1] Er ging auf ein ''Mannheimer'' Gymnasium, studierte aber an einer Stuttgarter Uni.\n:[1] Die ''Mannheimer'' Innenstadt hat viel zu bieten.\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|}}\n*{{fr}}: [1] {{Ü|fr|}}\n|Ü-rechts=\n*{{it}}: [1] {{Ü|it|}}\n*{{es}}: [1] {{Ü|es|}}\n}}\n\n{{Referenzen}}\n:[*] {{Ref-DWDS|Mannheimer}}\n:[*] {{Ref-UniLeipzig|Mannheimer}}\n:[1] {{Ref-Duden|Mannheimer aus von Mannheim|Mannheimer (aus/von Mannheim)}}\n:[*] {{Ref-OWID|elexiko|67698}}"
+                    }
+                ]
+            }
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20200508204918|7823265",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "835018": {
+                "pageid": 835018,
+                "ns": 0,
+                "title": "Sintiza",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Sintiza ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=f\n|Nominativ Singular=Sintiza\n|Nominativ Plural=Sintizas\n|Genitiv Singular=Sintiza\n|Genitiv Plural=Sintizas\n|Dativ Singular=Sintiza\n|Dativ Plural=Sintizas\n|Akkusativ Singular=Sintiza\n|Akkusativ Plural=Sintizas\n}}\n\n{{Worttrennung}}\n:Sin·ti·za, {{Pl.}} Sin·ti·zas\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|ˈzɪntit͡sa}}\n:{{Hörbeispiele}} {{Audio|De-Sintiza.ogg}}\n\n{{Bedeutungen}}\n:[1] weibliche Person, die zu den Sinti gehört\n\n{{Herkunft}}\n:weibliche Form zu ''[[Sinto]]''<ref>{{Lit-Duden: Großes Fremdwörterbuch|A=4}}, Stichwort: „Sintiza“.<\/ref>\n\n{{Männliche Wortformen}}\n:[1] [[Sinto]]\n\n{{Beispiele}}\n:[1] „Gilsenbach nannte diesen Koloss Lenchen, eine ''Sintiza''.“<ref>{{Literatur | Autor= Wolf Biermann | Titel= Warte nicht auf bessre Zeiten!|TitelErg= Eine Autobiographie| Auflage = 2.|Verlag= Propyläen| Ort= Berlin| Jahr= 2016 | ISBN= 978-3-549-07473-2 | Seiten= 218.}}<\/ref>\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|}}\n*{{fr}}: [1] {{Ü|fr|}}\n|Ü-rechts=\n*{{ru}}: [1] {{Ü|ru|}}\n*{{es}}: [1] {{Ü|es|}}\n}}\n\n{{Referenzen}}\n:[1] {{Ref-DWDS|Sintiza}}\n:[*] {{Ref-OWID|Sintiza}}\n:[*] {{Ref-UniLeipzig|Sintiza}}\n:[1] {{Ref-Duden|Sintiza}}\n\n{{Quellen}}\n\n[[Kategorie:Entlehnung aus dem Romani (Deutsch)]]"
+                    }
+                ]
+            }
+        }
+    }
+}

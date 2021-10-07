@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20200927074041|8134877",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "911640": {
+                "pageid": 911640,
+                "ns": 0,
+                "title": "Kommunikationswissenschaftler",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Kommunikationswissenschaftler ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{m}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=m\n|Nominativ Singular=Kommunikationswissenschaftler\n|Nominativ Plural=Kommunikationswissenschaftler\n|Genitiv Singular=Kommunikationswissenschaftlers\n|Genitiv Plural=Kommunikationswissenschaftler\n|Dativ Singular=Kommunikationswissenschaftler\n|Dativ Plural=Kommunikationswissenschaftlern\n|Akkusativ Singular=Kommunikationswissenschaftler\n|Akkusativ Plural=Kommunikationswissenschaftler\n}}\n\n{{Worttrennung}}\n:Kom·mu·ni·ka·ti·ons·wis·sen·schaft·ler, {{Pl.}} Kom·mu·ni·ka·ti·ons·wis·sen·schaft·ler\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|kɔmunikaˈt͡si̯oːnsˌvɪsn̩ʃaftlɐ}}\n:{{Hörbeispiele}} {{Audio|De-Kommunikationswissenschaftler.ogg}}\n:{{Reime}} {{Reim|oːnsvɪsn̩ʃaftlɐ|Deutsch}}\n\n{{Bedeutungen}}\n:[1] Wissenschaftler auf dem Gebiet der Kommunikationswissenschaft\n\n{{Herkunft}}\n:[[Ableitung]] von ''[[Kommunikationswissenschaft]]'' mit dem [[Ableitungsmorphem]] ''[[-ler]]''\n\n{{Weibliche Wortformen}}\n:[1] [[Kommunikationswissenschaftlerin]]\n\n{{Oberbegriffe}}\n:[1] [[Wissenschaftler]]\n\n{{Beispiele}}\n:[1] „Und doch sind seine Fragestellungen in theoretischer und angewandter Hinsicht nicht nur für Linguisten, Psychologen und Pädagogen von Belang, sondern auch für Mediziner und für Verhaltens- und ''Kommunikationswissenschaftler''.“<ref>{{Literatur| Autor=Els Oksaar |Titel=Spracherwerb im Vorschulalter |TitelErg= Einführung in die Pädolinguistik |Verlag= Kohlhammer |Ort= Stuttgart/Berlin/Köln/Mainz |Jahr=1977 | Seiten= 9. |ISBN= 3-17-004471-0}}<\/ref>\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|}}\n*{{fr}}: [1] {{Ü|fr|}}\n|Ü-rechts=\n*{{ru}}: [1] {{Ü|ru|}}\n*{{es}}: [1] {{Ü|es|}}\n}}\n\n{{Referenzen}}\n:[*] {{Wikipedia-Suche|Kommunikationswissenschaftler}}\n:[*] {{Ref-DWDS|Kommunikationswissenschaftler}}\n:[*] {{Ref-OWID|Kommunikationswissenschaftler}}\n:[*] {{Ref-UniLeipzig|Kommunikationswissenschaftler}}\n\n{{Quellen}}"
+                    }
+                ]
+            }
+        }
+    }
+}

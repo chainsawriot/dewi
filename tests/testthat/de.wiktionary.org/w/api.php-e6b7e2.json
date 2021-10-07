@@ -1,0 +1,30 @@
+{
+    "continue": {
+        "rvcontinue": "20181108132206|6770280",
+        "continue": "||"
+    },
+    "warnings": {
+        "main": {
+            "*": "Subscribe to the mediawiki-api-announce mailing list at <https://lists.wikimedia.org/postorius/lists/mediawiki-api-announce.lists.wikimedia.org/> for notice of API deprecations and breaking changes. Use [[Special:ApiFeatureUsage]] to see usage of deprecated features by your application."
+        },
+        "revisions": {
+            "*": "Because \"rvslots\" was not specified, a legacy format has been used for the output. This format is deprecated, and in the future the new format will always be used."
+        }
+    },
+    "query": {
+        "pages": {
+            "308797": {
+                "pageid": 308797,
+                "ns": 0,
+                "title": "Mannheimerin",
+                "revisions": [
+                    {
+                        "contentformat": "text/x-wiki",
+                        "contentmodel": "wikitext",
+                        "*": "== Mannheimerin ({{Sprache|Deutsch}}) ==\n=== {{Wortart|Substantiv|Deutsch}}, {{f}} ===\n\n{{Deutsch Substantiv Übersicht\n|Genus=f\n|Nominativ Singular=Mannheimerin\n|Nominativ Plural=Mannheimerinnen\n|Genitiv Singular=Mannheimerin\n|Genitiv Plural=Mannheimerinnen\n|Dativ Singular=Mannheimerin\n|Dativ Plural=Mannheimerinnen\n|Akkusativ Singular=Mannheimerin\n|Akkusativ Plural=Mannheimerinnen\n}}\n\n{{Worttrennung}}\n:Mann·hei·me·rin, {{Pl.}} Mann·hei·me·rin·nen\n\n{{Aussprache}}\n:{{IPA}} {{Lautschrift|ˈmanˌhaɪ̯məʁɪn}}\n:{{Hörbeispiele}} {{Audio|De-Mannheimerin.ogg}}\n\n{{Bedeutungen}}\n:[1] in [[Mannheim]] [[geboren]]e oder dort auf Dauer [[lebend]]e weibliche Person\n\n{{Herkunft}}\n:[[Ableitung]] ([[Motion]], [[Movierung]]) des Femininums aus der männlichen Form ''[[Mannheimer]]'' mit dem [[Derivatem]] ([[Ableitungsmorphem]]) ''[[-in]]''\n\n{{Männliche Wortformen}}\n:[1] [[Mannheimer]]\n\n{{Oberbegriffe}}\n:[1] [[Deutsche]], [[Europäerin]], [[Städterin]]\n\n{{Beispiele}}\n:[1] Meine Wohnungsnachbarin ist eine gebürtige ''Mannheimerin.''\n\n==== {{Übersetzungen}} ====\n{{Ü-Tabelle|Ü-links=\n*{{en}}: [1] {{Ü|en|}}\n*{{it}}: [1] {{Ü|it|}}\n|Ü-rechts=\n*{{sv}}: [1] {{Ü|sv|}}\n*{{es}}: [1] {{Ü|es|}}\n}}\n\n{{Referenzen}}\n:[*] {{Lit-Duden: Rechtschreibung|A=25}}, „Mannheimerin“, Seite 711.\n:[1] {{Ref-Duden|Mannheimerin}}\n:[*] {{Ref-DWDS|Mannheimerin}}\n:[1] {{Ref-UniLeipzig|Mannheimerin}}"
+                    }
+                ]
+            }
+        }
+    }
+}
