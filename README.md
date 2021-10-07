@@ -189,3 +189,11 @@ dewi("Frau")
 #> 7 f     Akkusativ Singular Frau  
 #> 8 f     Akkusativ Plural   Frauen
 ```
+
+The program returns `NA` if nothing is found.
+
+``` r
+dewi("qwerty")
+#> Warning in dewi("qwerty"): No German Wikitionary entry for "qwerty".
+#> [1] NA
+```

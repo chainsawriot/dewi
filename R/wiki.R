@@ -1,6 +1,6 @@
 .extract_what <- function(x = "\\{\\{Weibliche", parsed, ending = "") {
-    idx <- which(stringr::str_detect(parsed, x)) + 1
-    if (identical(idx, numeric(0))) {
+    idx <- which(stringr::str_detect(parsed, x))[1] + 1
+    if (identical(idx, numeric(0)) | is.na(idx)) {
         return(NA)
     }
     ans <- c()
@@ -31,10 +31,18 @@
         }
     }
     uebersicht <- purrr::keep(x, ~stringr::str_detect(., "^\\|Genus|^\\|Nominativ|^\\|Genitiv|^\\|Dativ|^\\|Akkusativ")) %>%  stringr::str_replace("^\\|", "") %>% stringr::str_split("\\=")
-    genus <- uebersicht[[1]][2]
-    kasus <- uebersicht[-1] %>% purrr::map_chr(1) %>% stringr::str_split(" ") %>% purrr::map_chr(1)
-    numerus <- uebersicht[-1] %>% purrr::map_chr(1) %>% stringr::str_split(" ") %>% purrr::map_chr(2)
-    wort <- uebersicht[-1] %>% purrr::map_chr(2)
+    genus_rows <- purrr::keep(uebersicht, ~stringr::str_detect(.[1], "^Genus"))
+    other_rows <- purrr::discard(uebersicht, ~stringr::str_detect(.[1], "^Genus"))
+    if (length(genus_rows) == 0) {
+        stop("Unknown Genus. Probably not a noun.", call.= FALSE)
+    }
+    if (length(genus_rows) > 1) {
+        warning("This word has more than one Genus. Will only take the first one.")
+    }
+    genus <- genus_rows[[1]][2]
+    kasus <- other_rows %>% purrr::map_chr(1) %>% stringr::str_split(" ") %>% purrr::map_chr(1)
+    numerus <- other_rows %>% purrr::map_chr(1) %>% stringr::str_split(" ") %>% purrr::map_chr(2)
+    wort <- other_rows %>% purrr::map_chr(2)
     tibble::tibble("genus" = genus, "kasus" = kasus, "numerus" = numerus, "wort" = wort)
 }
 
@@ -46,6 +54,10 @@
 #' @export
 dewi <- function(title) {
     wiki_content <- .get_wiki_content(title)
+    if (is.null(wiki_content)) {
+        warning("No German Wikitionary entry for \"", title, "\"." )
+        return(NA)
+    }
     parsed <- stringr::str_split(wiki_content, "\n")[[1]]
     uebersicht1 <- .parse_uebersicht(.extract_what(x = "Deutsch Substantiv Übersicht", parsed = parsed))
     if (!"tbl_df" %in% class(uebersicht1)) {

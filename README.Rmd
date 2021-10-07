@@ -65,3 +65,9 @@ For nouns without an equivalent form in another gender, only the original form a
 ```{r example7}
 dewi("Frau")
 ```
+
+The program returns `NA` if nothing is found.
+
+```{r example8}
+dewi("qwerty")
+```
