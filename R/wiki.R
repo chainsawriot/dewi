@@ -17,9 +17,9 @@
 .clean_text <- function(x, dot = FALSE) {
     ## clean up all non-german characters
     if (dot) {
-        rex <- "[^a-zA-Z \u00e4\u00f6\u00fc\u00c4\u00d6\u00dc\u00df\u00b7]"
+        rex <- "[^a-zA-Z \u00e4\u00f6\u00fc\u00c4\u00d6\u00dc\u00df\u00b7/]"
     } else {
-        rex <- "[^a-zA-Z \u00e4\u00f6\u00fc\u00c4\u00d6\u00dc\u00df]"
+        rex <- "[^a-zA-Z \u00e4\u00f6\u00fc\u00c4\u00d6\u00dc\u00df/]"
     }
     stringr::str_trim(stringr::str_replace_all(x, rex, ""))
 }
@@ -51,18 +51,31 @@
     res$query$pages[[1]]$revisions[[1]]$`*`
 }
 
-#' @export
-dewi <- function(title) {
+.get_ueber <- function(title, just_ueber = TRUE) {
     wiki_content <- .get_wiki_content(title)
     if (is.null(wiki_content)) {
-        warning("No German Wikitionary entry for \"", title, "\"." )
+        warning("No German Wikitionary entry for \"", title, "\".", call.=FALSE)
         return(NA)
     }
     parsed <- stringr::str_split(wiki_content, "\n")[[1]]
-    uebersicht1 <- .parse_uebersicht(.extract_what(x = "Deutsch Substantiv Übersicht", parsed = parsed))
-    if (!"tbl_df" %in% class(uebersicht1)) {
+    uebersicht <- .parse_uebersicht(.extract_what(x = "Deutsch Substantiv Übersicht", parsed = parsed))
+    if (!"tbl_df" %in% class(uebersicht)) {
         return(NA)
     }
+    if (just_ueber) {
+        return(uebersicht)
+    } else {
+        return(list(uebersicht, parsed))
+    }
+}
+
+#' @export
+dewi <- function(title) {
+    res <- .get_ueber(title, just_ueber = FALSE)
+    if (!is.list(res)) {
+        return(NA)
+    }
+    uebersicht1 <- res[[1]]
     genus1 <- unique(uebersicht1$genus)
     if (genus1 == "f") {
         alternativ_genus <- "M\u00e4nnliche"
@@ -71,12 +84,12 @@ dewi <- function(title) {
     } else if (genus1 == "n") {
         return(uebersicht1)
     }
-    alternativ_title <- .clean_text(.extract_what(x = alternativ_genus, parsed))
+    alternativ_title <- .clean_text(.extract_what(x = alternativ_genus, res[[2]]))
     if (is.na(alternativ_title)) {
         return(uebersicht1)
     }
-    wiki_content2 <- .get_wiki_content(alternativ_title)
-    parsed2 <- stringr::str_split(wiki_content2, "\n")[[1]]
-    uebersicht2 <- .parse_uebersicht(.extract_what(x = "Deutsch Substantiv Übersicht", parsed = parsed2))
+    multiple_alternativ_titles <- stringr::str_split(alternativ_title, "[ /]")[[1]]
+    uebersicht2_list <- purrr::map(multiple_alternativ_titles, .get_ueber)
+    uebersicht2_list[!is.na(c(uebersicht2_list, NA))] %>% dplyr::bind_rows() -> uebersicht2
     dplyr::bind_rows(uebersicht1, uebersicht2)
 }

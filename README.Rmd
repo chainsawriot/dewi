@@ -32,42 +32,47 @@ devtools::install_github("chainsawriot/dewi")
 
 This is a basic example which shows you how to solve a common problem:
 
-```{r example}
+```{r japaner}
 library(dewi)
 dewi("Japaner")
 ```
 
-```{r example2}
+```{r japanerin}
 dewi("Japanerin")
 ```
 
-```{r example3}
+```{r asiat}
 ## N-deklination
 dewi("Asiat")
 ```
 
-```{r example4}
+```{r mannheimer}
 dewi("Mannheimer")
 ```
 
 Also useful for occupations, even weird ones.
 
-```{r example5}
+```{r kowi}
+dewi("Kommunikationswissenschaftler")
+```
+
+
+```{r re1}
 dewi("Regierungschef")
 ```
 
-```{r example6}
+```{r to1}
 dewi("Tormann") %>% print(n = 100)
 ```
 
 For nouns without an equivalent form in another gender, only the original form and its alternative forms will be returned.
 
-```{r example7}
+```{r frau}
 dewi("Frau")
 ```
 
 The program returns `NA` if nothing is found.
 
-```{r example8}
-dewi("qwerty")
+```{r qwerty}
+dewi("Qwerty")
 ```

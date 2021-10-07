@@ -122,6 +122,29 @@ dewi("Mannheimer")
 Also useful for occupations, even weird ones.
 
 ``` r
+dewi("Kommunikationswissenschaftler")
+#> # A tibble: 16 × 4
+#>    genus kasus     numerus  wort                              
+#>    <chr> <chr>     <chr>    <chr>                             
+#>  1 m     Nominativ Singular Kommunikationswissenschaftler     
+#>  2 m     Nominativ Plural   Kommunikationswissenschaftler     
+#>  3 m     Genitiv   Singular Kommunikationswissenschaftlers    
+#>  4 m     Genitiv   Plural   Kommunikationswissenschaftler     
+#>  5 m     Dativ     Singular Kommunikationswissenschaftler     
+#>  6 m     Dativ     Plural   Kommunikationswissenschaftlern    
+#>  7 m     Akkusativ Singular Kommunikationswissenschaftler     
+#>  8 m     Akkusativ Plural   Kommunikationswissenschaftler     
+#>  9 f     Nominativ Singular Kommunikationswissenschaftlerin   
+#> 10 f     Nominativ Plural   Kommunikationswissenschaftlerinnen
+#> 11 f     Genitiv   Singular Kommunikationswissenschaftlerin   
+#> 12 f     Genitiv   Plural   Kommunikationswissenschaftlerinnen
+#> 13 f     Dativ     Singular Kommunikationswissenschaftlerin   
+#> 14 f     Dativ     Plural   Kommunikationswissenschaftlerinnen
+#> 15 f     Akkusativ Singular Kommunikationswissenschaftlerin   
+#> 16 f     Akkusativ Plural   Kommunikationswissenschaftlerinnen
+```
+
+``` r
 dewi("Regierungschef")
 #> # A tibble: 16 × 4
 #>    genus kasus     numerus  wort               
@@ -193,7 +216,7 @@ dewi("Frau")
 The program returns `NA` if nothing is found.
 
 ``` r
-dewi("qwerty")
-#> Warning in dewi("qwerty"): No German Wikitionary entry for "qwerty".
+dewi("Qwerty")
+#> Warning in dewi("Qwerty"): No German Wikitionary entry for "Qwerty".
 #> [1] NA
 ```
