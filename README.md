@@ -145,6 +145,37 @@ dewi("Regierungschef")
 ```
 
 ``` r
+dewi("Tormann") %>% print(n = 100)
+#> # A tibble: 21 × 4
+#>    genus kasus     numerus   wort      
+#>    <chr> <chr>     <chr>     <chr>     
+#>  1 m     Nominativ Singular  Tormann   
+#>  2 m     Nominativ Plural    Tormänner 
+#>  3 m     Nominativ Plural    Torleute  
+#>  4 m     Genitiv   Singular  Tormanns  
+#>  5 m     Genitiv   Singular* Tormannes 
+#>  6 m     Genitiv   Plural    Tormänner 
+#>  7 m     Genitiv   Plural    Torleute  
+#>  8 m     Dativ     Singular  Tormann   
+#>  9 m     Dativ     Plural    Tormännern
+#> 10 m     Dativ     Plural    Torleuten 
+#> 11 m     Akkusativ Singular  Tormann   
+#> 12 m     Akkusativ Plural    Tormänner 
+#> 13 m     Akkusativ Plural    Torleute  
+#> 14 f     Nominativ Singular  Torfrau   
+#> 15 f     Nominativ Plural    Torfrauen 
+#> 16 f     Genitiv   Singular  Torfrau   
+#> 17 f     Genitiv   Plural    Torfrauen 
+#> 18 f     Dativ     Singular  Torfrau   
+#> 19 f     Dativ     Plural    Torfrauen 
+#> 20 f     Akkusativ Singular  Torfrau   
+#> 21 f     Akkusativ Plural    Torfrauen
+```
+
+For nouns without an equivalent form in another gender, only the
+original form and its alternative forms will be returned.
+
+``` r
 dewi("Frau")
 #> # A tibble: 8 × 4
 #>   genus kasus     numerus  wort  

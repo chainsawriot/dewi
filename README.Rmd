@@ -57,5 +57,11 @@ dewi("Regierungschef")
 ```
 
 ```{r example6}
+dewi("Tormann") %>% print(n = 100)
+```
+
+For nouns without an equivalent form in another gender, only the original form and its alternative forms will be returned.
+
+```{r example7}
 dewi("Frau")
 ```
